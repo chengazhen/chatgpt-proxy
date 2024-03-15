@@ -1,0 +1,13 @@
+# cache
+__pycache__
+
+# env
+.env
+.venv
+.vscode
+
+# log
+app.log
+
+# config
+config.py
